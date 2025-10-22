@@ -1,2 +1,2 @@
-# e-learning-website-plain-php
+# e-learning-platform-plain-php
 A web application allows sharing files &amp; important dates between students and their teachers (Old school project - PFE 2019).  
