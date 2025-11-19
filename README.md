@@ -1,2 +1,3 @@
-# e-learning-platform-plain-php
-A web application allows sharing files &amp; important dates between students and their teachers (Old school project - PFE 2019).  
+# PHP E-Learning Platform
+
+A simple PHP e-learning platform for sharing files and important dates between students and teachers (PFE 2019).
